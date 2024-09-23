@@ -3,3 +3,8 @@ body{
     font-optical-sizing: auto;
     font-style: normal;
   }
+.btn-color{
+  padding: 12px 32px 12px 32px;
+  border-radius: 8px;
+background: rgb(180, 244, 97);
+}
